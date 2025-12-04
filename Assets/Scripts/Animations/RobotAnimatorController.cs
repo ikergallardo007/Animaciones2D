@@ -30,7 +30,26 @@ public class RobotAnimatorController : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.Mouse0))
 			_animator.SetTrigger("Attack");
 
-	}
+		if (Input.GetKeyDown(KeyCode.UpArrow))
+			_animator.SetTrigger("Jump");
+
+		if (Input.GetKeyDown(KeyCode.Space))
+		{
+			_animator.SetTrigger("Dash");
+			_animator.SetBool("Run", false);
+        }
+
+		if (Input.GetKeyDown(KeyCode.T))
+		{
+			_animator.SetTrigger("Teleport");
+			_animator.SetBool("Run", false);
+        }
+
+
+
+
+
+    }
 	#endregion
 
 	#region Public Methods
