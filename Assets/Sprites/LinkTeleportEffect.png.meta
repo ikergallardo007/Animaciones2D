@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 205e516e0191d604ca13c937935a871d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -356656283717395027
+    second: LinkTeleportEffect_0
+  - first:
+      213: 1206307501304390066
+    second: LinkTeleportEffect_1
+  - first:
+      213: -3260145205033335811
+    second: LinkTeleportEffect_2
+  - first:
+      213: 7394885408425766461
+    second: LinkTeleportEffect_3
+  - first:
+      213: -9195892185629316031
+    second: LinkTeleportEffect_4
+  - first:
+      213: 3630351369340739549
+    second: LinkTeleportEffect_5
+  - first:
+      213: -1389196908088955601
+    second: LinkTeleportEffect_6
+  - first:
+      213: -5394323377395327634
+    second: LinkTeleportEffect_7
+  - first:
+      213: 4360882809376037662
+    second: LinkTeleportEffect_8
+  - first:
+      213: 1658977112466605934
+    second: LinkTeleportEffect_9
+  - first:
+      213: -7061131474188484617
+    second: LinkTeleportEffect_10
+  - first:
+      213: -8784076601258435917
+    second: LinkTeleportEffect_11
+  - first:
+      213: -7153741644553271124
+    second: LinkTeleportEffect_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinkTeleportEffect_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad1d16eff6ec0bf0800000000000000
+      internalID: -356656283717395027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkTeleportEffect_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b12329f74aadb010800000000000000
+      internalID: 1206307501304390066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkTeleportEffect_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 42
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d694ab5c498bce0800000000000000
+      internalID: -1389196908088955601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkTeleportEffect_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e674317e4eed50710800000000000000
+      internalID: 1658977112466605934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkTeleportEffect_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7
+        width: 94
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff3aa0f552d10e90800000000000000
+      internalID: -7061131474188484617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d583e0eba5eb8747ba7eff358197c2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LinkTeleportEffect_0: -356656283717395027
+      LinkTeleportEffect_1: 1206307501304390066
+      LinkTeleportEffect_10: -7061131474188484617
+      LinkTeleportEffect_11: -8784076601258435917
+      LinkTeleportEffect_12: -7153741644553271124
+      LinkTeleportEffect_2: -3260145205033335811
+      LinkTeleportEffect_3: 7394885408425766461
+      LinkTeleportEffect_4: -9195892185629316031
+      LinkTeleportEffect_5: 3630351369340739549
+      LinkTeleportEffect_6: -1389196908088955601
+      LinkTeleportEffect_7: -5394323377395327634
+      LinkTeleportEffect_8: 4360882809376037662
+      LinkTeleportEffect_9: 1658977112466605934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
