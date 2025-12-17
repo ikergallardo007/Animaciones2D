@@ -9,6 +9,7 @@ public class LinkAnimatorController : MonoBehaviour
 	#region Fields
 	[SerializeField] private Animator _animator;
 	[SerializeField] private SpriteRenderer _spriteRenderer;
+	// [SerializeField] private SpriteRenderer _effectSpriteRenderer;
 	#endregion
 
 	#region Unity Callbacks
@@ -41,7 +42,10 @@ public class LinkAnimatorController : MonoBehaviour
 			_animator.SetBool("Run", false);
 
         if (Input.GetKeyDown(KeyCode.Mouse0))
+		{
+			//_effectSpriteRenderer.flipX = _spriteRenderer.flipX;
 			_animator.SetTrigger("Attack");
+        }
 
 		if (Input.GetKeyDown(KeyCode.UpArrow))
 			_animator.SetTrigger("Jump");
